@@ -1,0 +1,6 @@
+@RPSLS_Game_HostAddress = http://localhost:5143
+
+GET {{RPSLS_Game_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
