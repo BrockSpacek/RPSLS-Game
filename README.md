@@ -10,6 +10,7 @@ Create the Endpoint that when called it will give you the CPU response.
 ### Links 
 
 Figma - https://www.figma.com/design/IQEdCOTxpfPK2E30LUUYaF/RPSLS-Game?node-id=0-1&p=f&t=QoWPc5dR9INAUs1q-0
+Note: Need to make changes later for best of 3/5/7 as well as add new font I found!
 
 
 Peer Review: Michael Heckerman
