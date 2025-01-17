@@ -18,15 +18,15 @@ namespace RPSLS_Game.services
                 switch (possibleResponse)
                 {
                     case 1:
-                        return "Rock!";
+                        return "Rock";
                     case 2:
-                        return "Paper!";
+                        return "Paper";
                     case 3:
-                        return "Scissors!";
+                        return "Scissors";
                     case 4:
-                        return "Lizard!";
+                        return "Lizard";
                     case 5:
-                        return "Spock!";
+                        return "Spock";
                     default: 
                         return "ERROR ERROR ERROR!!!";
                 }
